@@ -38,6 +38,4 @@ No database integration
 No post editing or deletion features
 
 
-##Live Demo
 
-Running on http://127.0.0.1:5000
